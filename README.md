@@ -15,7 +15,7 @@ A Django-based e-commerce web application featuring user authentication, role-ba
 ## Tech Stack
 
 - **Backend**: Django 5.x, Django ORM, PostgreSQL  
-- **Frontend**: Django Templates, HTML, CSS, JavaScript  
+- **Frontend**: Django Templates, HTML, CSS  
 - **Other Tools**: PyCharm, Git
 
 ---
